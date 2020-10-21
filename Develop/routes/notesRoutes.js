@@ -5,6 +5,8 @@ var notesData = require("../../../../db/db.json");
 // ROUTING
 // ===============================================================================
 
+console.log(notesData)
+
 module.exports = function(app) {
   // API GET Requests
 
