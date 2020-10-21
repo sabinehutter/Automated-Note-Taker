@@ -4,7 +4,7 @@ const $saveNoteBtn = $(".save-note");
 const $newNoteBtn = $(".new-note");
 const $noteList = $(".list-container .list-group");
 
-require('./routes/notesRoutes')(app);
+require('./routes/htmlRoutes')(app);
 require('./routes/htmlRoutes')(app);
 
 
