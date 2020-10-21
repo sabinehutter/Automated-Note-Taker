@@ -1,13 +1,11 @@
-
-var notesData = require("../../../../db/db.json");
+const router = require("express")
+var notesData = require("../db/db.json");
 
 // ===============================================================================
 // ROUTING
 // ===============================================================================
 
-console.log(notesData)
-
-module.exports = function(app) {
+module.exports = function(app) {    
   // API GET Requests
 
   app.get("/api/notes", function(req, res) {
