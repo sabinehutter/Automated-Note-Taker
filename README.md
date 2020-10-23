@@ -4,15 +4,15 @@
   # Welcome to the Automated Note Taking Application!  
 
   ## Description
-    This application allows you to automatically take notes. It's features include creating, saving, editing, and deleting notes. 
+   This application allows you to automatically take notes. It's features include creating, saving, editing, and deleting notes. 
 
-    This application prompts you to enter your notes title and description and then you can save, delete or edit the note!
+   This application prompts you to enter your notes title and description and then you can save, delete or edit the note!
     
   ## Hosted Application
   
-    The hosted application can be found at : [Live Note Taking Application](https://fast-chamber-21005.herokuapp.com/)
+   The hosted application can be found at : [Live Note Taking Application](https://fast-chamber-21005.herokuapp.com/)
     
-    The application was deployed using the instructions found here : https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli
+   The application was deployed using the instructions found here : https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents : 
