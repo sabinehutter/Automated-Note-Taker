@@ -4,10 +4,6 @@ const $saveNoteBtn = $(".save-note");
 const $newNoteBtn = $(".new-note");
 const $noteList = $(".list-container .list-group");
 
-const htmlRoutes = require('../../../routes/htmlRoutes')(app);
-const notesRoutes =  require('../../../routes/notesRoutes')(app);
-
-
 // activeNote is used to keep track of the note in the textarea
 let activeNote = {};
 
