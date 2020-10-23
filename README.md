@@ -10,7 +10,7 @@
     
   ## Hosted Application
   
-    The hosted application can be found at : https://fast-chamber-21005.herokuapp.com/
+    The hosted application can be found at : [Live Note Taking Application](https://fast-chamber-21005.herokuapp.com/)
     
     The application was deployed using the instructions found here : https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli
 
