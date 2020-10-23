@@ -12,7 +12,7 @@
   
     The hosted application can be found at : https://fast-chamber-21005.herokuapp.com/
     
-    The application was deployed using the instructions found here : 
+    The application was deployed using the instructions found here : https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents : 
