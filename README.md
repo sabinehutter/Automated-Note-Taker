@@ -7,6 +7,8 @@
     This application allows you to automatically take notes. It's features include creating, saving, editing, and deleting notes. 
 
     This application prompts you to enter your notes title and description and then you can save, delete or edit the note!
+    
+  ## Hosted Application
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents : 
