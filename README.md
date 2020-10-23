@@ -9,6 +9,8 @@
     This application prompts you to enter your notes title and description and then you can save, delete or edit the note!
     
   ## Hosted Application
+  
+    The hosted application can be found : 
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents : 
