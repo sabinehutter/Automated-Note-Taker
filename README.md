@@ -29,7 +29,7 @@
     Run npm install then navigate to the Develop folder and run 'node server.js' to begin running the application. The application will then open on yuor local port 3000. 
 
   ## Usage
-    This project uses Javascript, Node.js, fs npm package, util npm package, express.js, npm uuid package
+    This project uses Javascript, Node.js, fs npm package, util npm package, express.js, npm uuid package, path npm package
 
   ## License
   MIT
