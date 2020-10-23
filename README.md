@@ -20,10 +20,10 @@
   * [Questions](#questions)
 
   ## Installation
-    Run npm install then navigate to the Develop folder and run 'node app.js' to begin running the application. To run the test scripts open the Terminal for Development and run 'npm run test'
+    Run npm install then navigate to the Develop folder and run 'node server.js' to begin running the application. The application will then open on yuor local port 3000. 
 
   ## Usage
-    This project uses Javascript, Node.js, Inquirer npm package, fs npm package, util npm package
+    This project uses Javascript, Node.js, fs npm package, util npm package, express.js, npm uuid package
 
   ## License
   MIT
@@ -36,8 +36,8 @@
   
 
   ## Tests
-To run the test scripts open the Terminal for Development and run 'npm run test'. The test scripts are writen to test each employee js file and not the app.js file. 
-
+  There are currently no test scripts created for this application :( Happy to collaborate so please reach out!
+  
   ## Questions
   [Link to Creator Github](https://github.com/sabinehutter)
 
